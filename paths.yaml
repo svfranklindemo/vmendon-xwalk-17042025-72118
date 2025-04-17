@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/vmendon/bandhanlifeuniversalfinal/:/
+ - /content/vmendon/bandhanlifeuniversalfinal/metadata.json:/metadata.json
+ - /content/vmendon/bandhanlifeuniversalfinal/redirects.json:/redirects.json
